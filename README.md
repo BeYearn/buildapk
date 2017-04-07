@@ -16,3 +16,5 @@
 * .apk文件是已经打好包的安装文件，我们是在这个apk文件基础上生成其他渠道包的。
 * info文件夹下包含：channel.txt和empty.txt，channel.txt是渠道号的集合已回车分割，可参考自己的实际情况修改。
 * outputDir文件夹是生成渠道包集合的文件夹。
+### 参考说明
+* http://blog.csdn.net/qq_23547831/article/details/51569261
