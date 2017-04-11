@@ -18,3 +18,4 @@
 * outputDir文件夹是生成渠道包集合的文件夹。
 ### 参考说明
 * http://blog.csdn.net/qq_23547831/article/details/51569261
+* http://tech.meituan.com/mt-apk-packaging.html
